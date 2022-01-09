@@ -10,6 +10,7 @@ Hi, my name is Justin...and I'm focused on developing tools, systems, and proces
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code_Style-YAPF-informational?style=flat&logo=googlejax&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GoogleCloud-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gitkraken-informational?style=flat&logo=GitKraken&logoColor=white&color=2bbc8a)
