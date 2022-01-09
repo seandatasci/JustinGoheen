@@ -15,6 +15,7 @@ Happy coding! 💻
 ![](https://img.shields.io/badge/Editor-Colab-informational?style=flat&logo=googlecolab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Hugging_Face-informational?style=flat&logo=HuggingFace&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code_Style-YAPF-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
