@@ -20,6 +20,7 @@ Hi, my name is Justin...and I'm focused on developing tools, systems, and proces
 ![](https://img.shields.io/badge/Code-PyArrow-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code_Style-YAPF-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GoogleCloud-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Storage-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Vertex_AI-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gitkraken-informational?style=flat&logo=GitKraken&logoColor=white&color=2bbc8a)
