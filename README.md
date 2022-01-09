@@ -1,6 +1,8 @@
 # Hello, World! 👋 
 
-Hi, my name is Justin...and I'm focused on developing tools, systems, and processes to enable the application of artificial intelligence in real-world contexts. As of early 2022, I am in the final quarter of an M.S. in Artificial Intelligence and Machine Learning at Drexel University.
+Hi, my name is Justin —— and I'm focused on developing tools, systems, and processes to enable the application of Artificial Intelligence in real-world contexts. 
+
+My pinned repos are organized according to AI fields and personal interests; if you want to learn AI/ML with Python, I highly encourage you to begin with the Artificial Intelligence repo and go from there.
 
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/justingoheen) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://theaiengineer.medium.com)
 
