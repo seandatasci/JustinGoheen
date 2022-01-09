@@ -18,6 +18,7 @@ Happy coding! 💻
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Hugging_Face-informational?style=flat&logo=HuggingFace&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ZeroMQ-informational?style=flat&logo=zeromq&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code_Style-YAPF-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GoogleCloud-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Vertex_AI-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
