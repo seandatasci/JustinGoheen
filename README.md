@@ -6,6 +6,7 @@ Hi, my name is Justin...and I'm focused on developing tools, systems, and proces
 
 ## 💻 Technologies & Tools 🔧 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Jupyter_Lab-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Colab-informational?style=flat&logo=googlecolab&logoColor=white&color=2bbc8a)
