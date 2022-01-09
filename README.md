@@ -1,8 +1,8 @@
-# Hello, World! 👋 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/justingoheen) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://theaiengineer.medium.com)
+# Hello, World! 👋 
 
 Hi, my name is Justin...and I'm focused on developing tools, systems, and processes to enable the application of artificial intelligence in real-world contexts.
 
-I hit reset on my GitHub in early 2022 in favor of a format I hope will be useful for other AI/ML Engineers and algorithmic trading enthusiasts.
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/justingoheen) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://theaiengineer.medium.com)
 
 ## 💻 Technologies & Tools 🔧 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
