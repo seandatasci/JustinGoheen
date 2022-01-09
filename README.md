@@ -1,6 +1,6 @@
 # Hello, World! 👋 
 
-Hi, my name is Justin —— and I'm focused on developing tools, systems, and processes to enable the application of Artificial Intelligence in real-world contexts[*](https://www.sei.cmu.edu/our-work/artificial-intelligence-engineering/). 
+Hi, my name is Justin —— and I'm focused on developing tools, systems, and processes to enable the application of Artificial Intelligence in real-world contexts[¹](https://www.sei.cmu.edu/our-work/artificial-intelligence-engineering/).
 
 
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/justingoheen) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://theaiengineer.medium.com)
@@ -30,7 +30,6 @@ Hi, my name is Justin —— and I'm focused on developing tools, systems, and p
 [![](https://img.shields.io/badge/Docs-Material_MkDocs-informational?style=flat&logo=&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Code_Style-YAPF-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)](#)
 
-<!-- <a href="#"><img src="https://github.com/TheAiEngineer" /></a> -->
 
 <!-- ![](https://img.shields.io/badge/Code-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/Code-Hugging_Face-informational?style=flat&logo=HuggingFace&logoColor=white&color=2bbc8a) -->
