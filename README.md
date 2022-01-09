@@ -2,7 +2,9 @@
 
 Hi, my name is Justin —— and I'm focused on developing tools, systems, and processes to enable the application of Artificial Intelligence in real-world contexts[¹](https://www.sei.cmu.edu/our-work/artificial-intelligence-engineering/).
 
-My pinned repos are organized in a manner that is meant to help folks navigate easily by high-level topics. I take a TensorFlow-first approach with personal projects so that I can lean on a single ecosystem in the sense MATLAB and R users benefit from having both a domain framework and suite of tools. 
+My pinned public repos are organized in a manner that is meant to help folks navigate easily by high-level topics. This format was adopted in early 2022 as a means of maintaining future work and contributions according to these high-level topics as opposed to many micro-repos.
+
+I take a TensorFlow-first approach with personal projects so that I can lean on a single ecosystem in the sense MATLAB and R users benefit from having both a domain framework and suite of tools. Why TensorFlow? ... There were more job postings for the framework when I was entering the job market.
 
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/justingoheen) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://theaiengineer.medium.com)
 
