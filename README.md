@@ -2,6 +2,12 @@
 
 Hi, my name is Justin...and I'm focused on developing tools, systems, and processes to enable the application of artificial intelligence in real-world contexts.
 
+As of early 2022, I am in the final quarter of an M.S. in Artificial Intelligence and Machine Learning. My capstone works focuses on single-channel multi-source signal separation, and my hobby projects focus on AI for algorithmic trading.
+
+I hit reset on my GitHub in early 2022 in favor of a format I hope will be useful for other AI/ML Engineers and algorithmic trading enthusiasts.
+
+Happy coding!
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
