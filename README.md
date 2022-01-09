@@ -25,6 +25,8 @@ Happy coding! 💻
 ![](https://img.shields.io/badge/Tools-Gitkraken-informational?style=flat&logo=GitKraken&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gitpod-informational?style=flat&logo=gitpod&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Vault-informational?style=flat&logo=vault&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Homebrew-informational?style=flat&logo=homebrew&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Miniconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data_Apps-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data_Apps-Streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GUIs-PySide6-informational?style=flat&logo=Qt&logoColor=white&color=2bbc8a)
