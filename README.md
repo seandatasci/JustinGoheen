@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello, World! 👋 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/justingoheen) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://theaiengineer.medium.com)
 
 Hi, my name is Justin...and I'm focused on developing tools, systems, and processes to enable the application of artificial intelligence in real-world contexts.
 
@@ -34,7 +34,3 @@ Happy coding! 💻
 ![](https://img.shields.io/badge/GUIs-PySide6-informational?style=flat&logo=Qt&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GUIs-Tkinter-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Docs-Material_MkDocs-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
-
-
-## 📝 Blog 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://theaiengineer.medium.com)
