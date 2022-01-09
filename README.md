@@ -17,7 +17,7 @@ Hi, my name is Justin...and I'm focused on developing tools, systems, and proces
 ![](https://img.shields.io/badge/Tools-Gitkraken-informational?style=flat&logo=GitKraken&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Gitpod-informational?style=flat&logo=gitpod&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Vault-informational?style=flat&logo=vault&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Docs-MkDocs-informational?style=flat&logo=Streamlit&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Docs-Material_MkDocs-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data_Apps-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data_Apps-Streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=2bbc8a)
 
