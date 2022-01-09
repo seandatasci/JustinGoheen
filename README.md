@@ -18,7 +18,6 @@ Hi, my name is Justin...and I'm focused on developing tools, systems, and proces
 ![](https://img.shields.io/badge/Code-Hugging_Face-informational?style=flat&logo=HuggingFace&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ZeroMQ-informational?style=flat&logo=zeromq&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PyArrow-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code_Style-YAPF-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GoogleCloud-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Storage-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Vertex_AI-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
@@ -38,3 +37,5 @@ Hi, my name is Justin...and I'm focused on developing tools, systems, and proces
 ![](https://img.shields.io/badge/GUIs-PySide6-informational?style=flat&logo=Qt&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GUIs-Tkinter-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Docs-Material_MkDocs-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code_Style-YAPF-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
+
