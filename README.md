@@ -10,7 +10,6 @@ I take a TensorFlow-first approach with personal projects so that I can lean on 
 
 The badge salad you see below is mostly for transparency with regard to which tools I use and what you can expect to see in any code or knowledge base. I'm mostly technology agnostic given these products are simply ways to employ concepts. New developers or engineers: please understand the inclusion of a particular tool does not imply it is the 'best'. The toolkit below was selected on interopability and likelihood the company/product will persist, reducing the need to alter a workflow in the event a product is no longer available.
 
-
 ## 💻 Technologies & Tools 🔧 
 [![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)](#)
@@ -36,6 +35,15 @@ The badge salad you see below is mostly for transparency with regard to which to
 [![](https://img.shields.io/badge/GUIs-Tkinter-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Docs-Material_MkDocs-informational?style=flat&logo=&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Code_Style-YAPF-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)](#)
+
+---
+
+New to AI/ML learners, I suggest you proceed through the repos in the following order:
+
+1. Fluent TensorFlow
+2. Artificial Intelligence
+3. Deep Learning
+4. Reinforcement Learning
 
 
 <!-- ![](https://img.shields.io/badge/Code-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a) -->
