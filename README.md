@@ -6,6 +6,7 @@ My pinned public repos are organized in a manner that is meant to help folks nav
 
 I take a TensorFlow-first approach with personal projects so that I can lean on a single ecosystem in the same sense MATLAB and R users benefit from having both a domain framework and suite of tools.
 
+<!-- The badge salad you see below is mostly for transparency with regard to which tools I use and what you can expect to see in any code or knowledge bases. I'm mostly technology agnostic given these products are simply ways to employ concepts. -->
 
 
 ## 💻 Technologies & Tools 🔧 
@@ -22,14 +23,14 @@ I take a TensorFlow-first approach with personal projects so that I can lean on 
 [![](https://img.shields.io/badge/Data-PyArrow-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Data_Apps-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Data_Apps-Streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Tools-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Tools-Gitkraken-informational?style=flat&logo=GitKraken&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Tools-Gitpod-informational?style=flat&logo=gitpod&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Tools-Vault-informational?style=flat&logo=vault&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Tools-Homebrew-informational?style=flat&logo=homebrew&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Tools-Miniconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/DevOps-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/GitOps-Gitkraken-informational?style=flat&logo=GitKraken&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Cloud_VM-Gitpod-informational?style=flat&logo=gitpod&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Secrets-Vault-informational?style=flat&logo=vault&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Pkgs-Homebrew-informational?style=flat&logo=homebrew&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Pkgs-Miniconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Workflow-Airflow-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/GUIs-Tkinter-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Docs-Material_MkDocs-informational?style=flat&logo=&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Code_Style-YAPF-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)](#)
