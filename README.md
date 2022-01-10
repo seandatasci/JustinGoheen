@@ -8,7 +8,7 @@ My pinned public repos are organized in a manner that is meant to help folks nav
 
 I take a TensorFlow-first approach with personal projects so that I can lean on a single ecosystem in the same sense MATLAB and R users benefit from having both a domain framework and suite of tools.
 
-The badge salad you see below is mostly for transparency with regard to which tools I use and what you can expect to see in any code or knowledge base. I'm mostly technology agnostic given these products are simply ways to employ concepts. New developers or engineers: please understand the inclusion of a particular tool does not imply it is the 'best'. The toolkit below was selected on interopability and likelihood the company/product will persist, reducing the need to alter a workflow in the event a product is no longer available.
+The badge salad you see below is mostly for transparency with regard to which tools I use and what you can expect to see in any code or knowledge base. I'm mostly technology agnostic given these products are simply ways to employ concepts. The toolkit below was selected on interopability and likelihood the company/product will persist, reducing the need to alter a workflow in the event a product is no longer available.
 
 ## 💻 Technologies & Tools 🔧 
 [![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)](#)
