@@ -42,8 +42,9 @@ New to AI/ML learners, I suggest you proceed through the repos in the following 
 
 1. Fluent TensorFlow
 2. Artificial Intelligence
-3. Deep Learning
-4. Reinforcement Learning
+3. Machine Learning
+4. Deep Learning
+5. Reinforcement Learning
 
 
 <!-- ![](https://img.shields.io/badge/Code-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a) -->
