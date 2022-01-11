@@ -2,11 +2,19 @@
 
 Hi, my name is Justin —— and I'm focused on developing tools, systems, and processes to enable the application of Artificial Intelligence in real-world contexts[¹](https://www.sei.cmu.edu/our-work/artificial-intelligence-engineering/).
 
-My GitHub is AI/ML learner and practitioner focused. Meaning, the collection of repos is designed as a curriculum and knowledge base.
-
-My pinned public repos are organized in a manner that is meant to help folks navigate easily by high-level AI subfields. This mono-repo like format was adopted in early 2022 as a means of maintaining future work and contributions according to these high-level topics as opposed to many micro-repos.
+My GitHub is AI/ML learner and practitioner focused. Meaning, the collection of repos is designed as a curriculum and knowledge base.The pinned repos are organized in a manner that is meant to help folks navigate easily by high-level AI subfields. This mono-repo like format was adopted in early 2022 as a means of maintaining future work and contributions according to these high-level topics as opposed to many micro-repos.
 
 I take a TensorFlow-first approach with personal projects so that I can lean on a single ecosystem in the same sense MATLAB and R users benefit from having both a domain framework and suite of tools.
+
+New to AI/ML learners, I suggest you proceed through the repos in the following order:
+
+1. Fluent TensorFlow
+2. Artificial Intelligence
+3. Machine Learning
+4. Deep Learning
+5. Reinforcement Learning
+
+---
 
 The badge salad you see below is mostly for transparency with regard to which tools I use and what you can expect to see in any code or knowledge base. I'm mostly technology agnostic given these products are simply ways to employ concepts. The toolkit below was selected on interopability and likelihood the company/product will persist, reducing the need to alter a workflow in the event a product is no longer available.
 
@@ -36,15 +44,7 @@ The badge salad you see below is mostly for transparency with regard to which to
 [![](https://img.shields.io/badge/Docs-Material_MkDocs-informational?style=flat&logo=&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Code_Style-YAPF-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)](#)
 
----
 
-New to AI/ML learners, I suggest you proceed through the repos in the following order:
-
-1. Fluent TensorFlow
-2. Artificial Intelligence
-3. Machine Learning
-4. Deep Learning
-5. Reinforcement Learning
 
 
 <!-- ![](https://img.shields.io/badge/Code-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a) -->
