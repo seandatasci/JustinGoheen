@@ -16,7 +16,7 @@ New to AI/ML learners, I suggest you proceed through the repos in the following 
 
 ---
 
-The badge salad you see below is mostly for transparency with regard to which tools I use and what you can expect to see in any code or knowledge base. I'm mostly technology agnostic given these products are simply ways to employ concepts. The toolkit below was selected on interopability and likelihood the company/product will persist, reducing the need to alter a workflow in the event a product is no longer available.
+The badge salad you see below is mostly for transparency with regard to which tools I use and what you can expect to see in any code or knowledge base. The toolkit below was selected on interopability and likelihood the company/product will persist, reducing the need to alter a workflow in the event a product is no longer available.
 
 ## 💻 Technologies & Tools 🔧 
 [![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)](#)
