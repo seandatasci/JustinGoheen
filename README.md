@@ -42,6 +42,7 @@ The badge salad you see below is mostly for transparency with regard to which to
 [![](https://img.shields.io/badge/Workflow-Airflow-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/GUIs-Tkinter-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Docs-Material_MkDocs-informational?style=flat&logo=&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Docs-Sphinx-informational?style=flat&logo=sphinx&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Code_Style-YAPF-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)](#)
 
 
