@@ -33,8 +33,6 @@ The following is the collection of books used or referenced in the repos; each w
 
 ---
 
-The badge salad you see below is mostly for transparency with regard to which tools I use and what you can expect to see in any code or knowledge base. The toolkit below was selected on interopability and likelihood the company/product will persist, reducing the need to alter a workflow in the event a product is no longer available.
-
 ## 💻 Technologies & Tools 🔧 
 [![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)](#)
