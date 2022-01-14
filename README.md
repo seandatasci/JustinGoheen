@@ -15,7 +15,7 @@ New to AI/ML learners, I suggest you proceed through the repos in the following 
 ---
 ## Books
 
-The following is the collection of books used in the repos:
+The following is the collection of books used or referenced in the repos; each was a required or supplemental text in my graduate program in AI/ML:
 
 | Title                         |
 |-------------------------------|
