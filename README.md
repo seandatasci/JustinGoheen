@@ -36,6 +36,7 @@ The badge salad you see below is mostly for transparency with regard to which to
 [![](https://img.shields.io/badge/DevOps-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/GitOps-Gitkraken-informational?style=flat&logo=GitKraken&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Cloud_VM-Gitpod-informational?style=flat&logo=gitpod&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Cloud_VM-Codespaces-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Secrets-Vault-informational?style=flat&logo=vault&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Pkgs-Homebrew-informational?style=flat&logo=homebrew&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Pkgs-Miniconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)](#)
