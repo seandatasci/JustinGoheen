@@ -20,6 +20,7 @@ The following is the collection of books used in the repos:
 | Title                         |
 |-------------------------------|
 | [Artificial Intelligence: A Modern Approach](https://www.google.com/books/edition/Artificial_Intelligence/B4xczgEACAAJ?hl=en)|
+| [Introduction to Algorithms](https://www.google.com/books/edition/Introduction_to_Algorithms_fourth_editio/RSMuEAAAQBAJ?hl=en)|
 | [AI and Machine Learning for Coders](https://www.google.com/books/edition/AI_and_Machine_Learning_for_Coders/462OzQEACAAJ?hl=en)|
 | [Hands-on Machine Learning with Scikit-learn, Keras, and TensorFlow](https://www.google.com/books/edition/Hands_On_Machine_Learning_with_Scikit_Le/HnetDwAAQBAJ?hl=en&gbpv=0)|
 | [Mathematics for Machine Learning](https://www.google.com/books/edition/Mathematics_for_Machine_Learning/t4XQDwAAQBAJ?hl=en&gbpv=0)|
@@ -28,7 +29,7 @@ The following is the collection of books used in the repos:
 |[Dive into Deep Learning](https://d2l.ai)|
 | [Reinforcement Learning](https://www.google.com/books/edition/Reinforcement_Learning_second_edition/uWV0DwAAQBAJ?hl=en&gbpv=0)|
 | [Bandit Algorithms](https://www.google.com/books/edition/Bandit_Algorithms/bbjpDwAAQBAJ?hl=en&gbpv=0)|
-| [Introduction to Algorithms](https://www.google.com/books/edition/Introduction_to_Algorithms_fourth_editio/RSMuEAAAQBAJ?hl=en)|
+
 
 ---
 
