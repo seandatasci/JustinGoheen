@@ -2,7 +2,7 @@
 
 Hi, my name is Justin —— and I'm focused on developing tools, systems, and processes to enable the application of Artificial Intelligence in real-world contexts[¹](https://www.sei.cmu.edu/our-work/artificial-intelligence-engineering/).
 
-My GitHub is AI/ML learner and practitioner focused. Meaning, the collection of repos is designed as a curriculum and knowledge base. The pinned repos are organized in a manner that is meant to help folks navigate easily by high-level AI subfields. This mono-repo like format was adopted in early 2022 as a means of maintaining future work and contributions according to these high-level topics as opposed to many micro-repos.
+My GitHub is AI/ML learner and practitioner focused. Meaning, the collection of repos is designed as an outline meant to be forked and completed by the user. The pinned repos are organized in a manner that is meant to help folks navigate easily by high-level AI subfields. This mono-repo like format was adopted in early 2022 as a means of maintaining future work and contributions according to these high-level topics as opposed to many micro-repos.
 
 I take a TensorFlow-first approach with personal projects so that I can lean on a single ecosystem in the same sense MATLAB and R users benefit from having both a domain framework and suite of tools.
 
