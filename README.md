@@ -2,7 +2,7 @@
 
 Hi, my name is Justin —— and I'm focused on developing tools, systems, and processes to enable the application of Artificial Intelligence in real-world contexts[¹](https://www.sei.cmu.edu/our-work/artificial-intelligence-engineering/).
 
-My GitHub is AI/ML learner and practitioner focused. Meaning, the collection of repos is designed as an outline meant to be forked and completed by the user. The pinned repos are organized in a manner that is meant to help folks navigate easily by high-level AI subfields. This mono-repo like format was adopted in early 2022 as a means of maintaining future work and contributions according to these high-level topics as opposed to many micro-repos.
+My GitHub is AI/ML learner focused. Meaning —— the collection of repos is designed as an outline meant to be forked and completed by the user. The pinned repos are organized in a manner that is meant to help folks navigate easily by high-level AI subfields. This mono-repo like format was adopted in early 2022 as a means of maintaining future work and contributions according to these high-level topics as opposed to many micro-repos.
 
 New to AI/ML learners, I suggest you proceed through the repos in the following order:
 
