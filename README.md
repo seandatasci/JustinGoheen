@@ -58,7 +58,7 @@ The following is the collection of books used or referenced in the repos; each w
 [![](https://img.shields.io/badge/GUIs-Tkinter-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Docs-Material_MkDocs-informational?style=flat&logo=&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Docs-Keras_AutoDocs-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Code_Style-YAPF-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Code_Style-Black-informational?style=flat&logo=pyblack&logoColor=white&color=2bbc8a)](#)
 
 
 
