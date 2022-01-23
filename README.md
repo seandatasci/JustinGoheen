@@ -43,7 +43,7 @@ The following is the collection of books used or referenced in the repos; each w
 [![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Cloud-Vertex_AI-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Data-GCP_Storage-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Data-Kafka-informational?style=flat&logo=Apache&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Data-PyZMQ-informational?style=flat&logo=zeromq&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Data-PyArrow-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Data_Apps-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Data_Apps-Streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=2bbc8a)](#)
