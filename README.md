@@ -4,7 +4,7 @@ Hi, my name is Justin —— and I'm focused on developing tools, systems, and p
 
 My ongoing graduate work in signal separation can be found at my organization [GitHub account](https://github.com/AiEngineering) in the tf2-convtasnet repo.
 
-My GitHub is AI/ML learner focused. Meaning —— the collection of repos is designed as an outline meant to be forked and completed by the user.
+My personal GitHub is AI/ML learner focused. Meaning —— the collection of repos is designed as an outline meant to be forked and completed by the user.
 
 New to AI/ML learners, I suggest you proceed through the repos in the following order:
 
