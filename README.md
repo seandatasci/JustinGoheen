@@ -40,24 +40,22 @@ The following is the collection of books used or referenced in the repos; each w
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Data-PyZMQ-informational?style=flat&logo=zeromq&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Data-PyArrow-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Code-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Data_Apps-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/DevOps-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/GitOps-Gitkraken-informational?style=flat&logo=GitKraken&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Cloud_VM-Codespaces-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Secrets-Vault-informational?style=flat&logo=vault&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Pkgs-Homebrew-informational?style=flat&logo=homebrew&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Pkgs-Miniconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Pkgs-Miniforge-informational?style=flat&logo=condaforge&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Workflow-Airflow-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Docs-Material_MkDocs-informational?style=flat&logo=&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Docs-Keras_AutoDocs-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Code_Style-Black-informational?style=flat&logo=pyblack&logoColor=white&color=2bbc8a)](#)
 
-
-
+<!-- [![](https://img.shields.io/badge/Pkgs-Miniconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)](#) -->
+<!-- [![](https://img.shields.io/badge/Cloud_VM-Codespaces-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](#) -->
+<!-- [![](https://img.shields.io/badge/Workflow-Airflow-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)](#) -->
+<!-- [![](https://img.shields.io/badge/Secrets-Vault-informational?style=flat&logo=vault&logoColor=white&color=2bbc8a)](#) -->
+<!-- [![](https://img.shields.io/badge/GitOps-Gitkraken-informational?style=flat&logo=GitKraken&logoColor=white&color=2bbc8a)](#) -->
+<!-- [![](https://img.shields.io/badge/Data-PyZMQ-informational?style=flat&logo=zeromq&logoColor=white&color=2bbc8a)](#) -->
+<!-- [![](https://img.shields.io/badge/Data-PyArrow-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)](#) -->
 <!-- [![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)](#) -->
 <!-- [![](https://img.shields.io/badge/Cloud_VM-Gitpod-informational?style=flat&logo=gitpod&logoColor=white&color=2bbc8a)](#) -->
 <!-- ![](https://img.shields.io/badge/Code-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a) -->
