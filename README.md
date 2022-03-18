@@ -38,7 +38,6 @@ The following is the collection of books used or referenced in the repos; each w
 ## 💻 Technologies & Tools 🔧 
 [![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Code-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Data_Apps-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=2bbc8a)](#)
@@ -49,6 +48,7 @@ The following is the collection of books used or referenced in the repos; each w
 [![](https://img.shields.io/badge/Docs-Keras_AutoDocs-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Code_Style-Black-informational?style=flat&logo=pyblack&logoColor=white&color=2bbc8a)](#)
 
+<!-- [![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)](#) -->
 <!-- [![](https://img.shields.io/badge/Pkgs-Miniconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)](#) -->
 <!-- [![](https://img.shields.io/badge/Cloud_VM-Codespaces-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](#) -->
 <!-- [![](https://img.shields.io/badge/Workflow-Airflow-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)](#) -->
