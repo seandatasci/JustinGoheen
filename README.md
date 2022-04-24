@@ -1,11 +1,13 @@
 # Hello, World! 👋
-[![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Code-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)](#)
-![](https://img.shields.io/badge/Code-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
-[![](https://img.shields.io/badge/Data_Apps-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Cloud_VM-Gitpod-informational?style=flat&logo=gitpod&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/VS_Code-Editor-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/PyCharm-IDE-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/PyTorch-Code-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Lightning-Code-informational?style=flat&logo=pytorchlightning&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Grid.ai-Compute-informational?style=flat&logo=grid.ai&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Gitpod-DevEnv-informational?style=flat&logo=gitpod&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Ploty_Dash-Apps-informational?style=flat&logo=Plotly&logoColor=white&color=2bbc8a)](#)
+
 
 Hi, my name is Justin —— and I'm focused on developing tools, systems, and processes to enable the application of Artificial Intelligence in real-world contexts[¹](https://www.sei.cmu.edu/our-work/artificial-intelligence-engineering/).
 
@@ -38,7 +40,7 @@ The following is the collection of books used or referenced in the repos; each w
 <!-- [Dive into Deep Learning](https://d2l.ai) -->
 ---
 
-
+<!-- ![](https://img.shields.io/badge/Code-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a) -->
 <!-- [![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)](#) -->
 <!-- [![](https://img.shields.io/badge/Pkgs-Miniconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)](#) -->
 <!-- [![](https://img.shields.io/badge/Cloud_VM-Codespaces-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](#) -->
