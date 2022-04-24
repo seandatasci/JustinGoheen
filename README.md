@@ -1,6 +1,5 @@
 # Hello, World! 👋
 [![](https://img.shields.io/badge/VS_Code-Editor-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/PyCharm-IDE-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/PyTorch-Code-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Lightning-Code-informational?style=flat&logo=pytorchlightning&logoColor=white&color=2bbc8a)](#)
@@ -40,6 +39,7 @@ The following is the collection of books used or referenced in the repos; each w
 <!-- [Dive into Deep Learning](https://d2l.ai) -->
 ---
 
+<!-- [![](https://img.shields.io/badge/PyCharm-IDE-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)](#) -->
 <!-- ![](https://img.shields.io/badge/Code-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a) -->
 <!-- [![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)](#) -->
 <!-- [![](https://img.shields.io/badge/Pkgs-Miniconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)](#) -->
