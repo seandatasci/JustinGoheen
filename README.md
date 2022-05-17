@@ -13,10 +13,10 @@ My personal GitHub is AI/ML learner focused. Meaning —— the collection of re
 
 New to AI/ML learners, I suggest you proceed through the repos in the following order:
 
-1. Artificial Intelligence
-2. Machine Learning
-3. Deep Learning
-4. Reinforcement Learning
+1. [Artificial Intelligence](https://github.com/JustinGoheen/Artificial-Intelligence)
+2. [Machine Learning](https://github.com/JustinGoheen/Machine-Learning)
+3. [Deep Learning](https://github.com/JustinGoheen/Deep-Learning)
+4. [Reinforcement Learning](https://github.com/JustinGoheen/Reinforcement-Learning)
 
 ---
 ## Books
